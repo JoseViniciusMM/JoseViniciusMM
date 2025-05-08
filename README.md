@@ -4,9 +4,7 @@
     Oi Tudo bem? Eu sou o 
     <a>José Vinícius</a>
   </h1>
-  
   <p align="center">
-       
   </p>
   
 </div>
