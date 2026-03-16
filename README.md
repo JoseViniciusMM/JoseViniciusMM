@@ -4,7 +4,7 @@
 <div align="center">
   <samp>
     <b>
-      システムの分析と開発
+      システムの分析 e 開発
     </b>
       <br>
       Hi there! I'm Martines
@@ -22,33 +22,38 @@
 
 <div align="center">
   <img
-    height=165
+    width="455"
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=JoseViniciusMM&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api?username=JoseViniciusMM&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka&cache_seconds=1800"
   />
   <img
-    height=165
+    width="315"
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseViniciusMM&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseViniciusMM&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight&cache_seconds=1800"
   />
+  
   <br>
   <br>
+
   <img
+    width="780"
     align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseViniciusMM&theme=tokyonight"
+    alt="Profile Details"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseViniciusMM&theme=tokyonight&cache_seconds=1800&title_color=6fa3fa"
   />
+  
   <br>
   <br>
+
   <img
-    height=154
+    width="780"
     align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=JoseViniciusMM&theme=tokyonight&hide_border=true&card_width=885"
+    alt="Streak Stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=JoseViniciusMM&theme=tokyonight&hide_border=true&cache_seconds=1800"
   />
-  </div>
+</div>
 
 <div align="center" style="display: inline_block"><br>
 
@@ -87,6 +92,4 @@
 
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
-  
-
-
+</div>
