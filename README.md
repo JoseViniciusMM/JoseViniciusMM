@@ -4,7 +4,7 @@
 <div align="center">
   <samp>
     <b>
-      システムの分析 e 開発
+      システムの分
     </b>
       <br>
       Hi there! I'm Martines
