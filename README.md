@@ -43,7 +43,7 @@
 <br>
 
 <ul>
-  <li>Desenvolvimento de sistemas robustos e automações utilizando <strong>Python, Node.js e SQL</strong>.</li>
+  <li>Dados e geração de insights, aplicando SOLID, paradigmas de programação e linguagem ubíqua para alinhar <strong>código e negócio</strong>.</li>
   <br>
   <li>Extração de inteligência e criação de dashboards dinâmicos e eficientes com <strong>Power BI e DAX</strong>.</li>
   <br>
