@@ -32,9 +32,9 @@
 <p>Wubba Lubba Dub Dub! Olá, eu sou o <strong>José Martines</strong>.</p>
 <p>Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFRO. Meu foco principal é na construção de sistemas práticos e na área de análise de dados (BI). Gosto de transformar processos manuais caóticos em fluxos eficientes e bem estruturados.</p>
 <p>Trago bastante disciplina da minha vivência militar prévia para o meu código: prefiro ir direto ao ponto, mantendo o foco no desenvolvimento em si, criando lógicas sólidas no backend e modelando dados que realmente resolvam problemas no mundo real.</p>
+<p>Código, dados e um pouco de caos.</p>
 
 <br clear="both" />
-<br>
 
 <h2 style="border-bottom: none; padding-bottom: 0;">Foco no momento</h2>
 
@@ -54,7 +54,6 @@
 
 <br clear="both" />
 
-<br>
 
 <h2 style="border-bottom: none; padding-bottom: 0;">Métricas do Multiverso</h2>
 
@@ -101,10 +100,6 @@ Uso **Python** para automação e scripts, **JavaScript / TypeScript** quando en
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=black" alt="Docker" />
 </p>
 
-<br clear="both" />
-
-<br>
-
 <h2 style="border-bottom: none; padding-bottom: 0;">Contato</h2>
 
 <br>
@@ -123,6 +118,5 @@ Uso **Python** para automação e scripts, **JavaScript / TypeScript** quando en
   <br><br>
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2d6e2d&height=100&section=footer"/>
-<br clear="both" />
 <br>
 
