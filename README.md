@@ -19,13 +19,11 @@
   </samp>
 </div>
 
-
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
-
 
 <h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
 
