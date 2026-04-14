@@ -13,9 +13,6 @@
 <div align="center">
   <samp>
     <b>システムの分析と開発</b>
-    <br>
-    Hi there! I'm Martines
-    <br>
   </samp>
 </div>
 
