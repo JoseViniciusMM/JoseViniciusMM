@@ -26,7 +26,7 @@
 
 <img align="left" src="assets/rick-26mortyRotateSized_1.gif" alt="Rick GIF" width="160" style="margin-right: 20px; margin-bottom: 8px;" />
 
-<p>Wubba Lubba Dub Dub! Olá, eu sou o <strong>José Martines</strong>.</p>
+<p>W L D D! Olá, eu sou o <strong>José Martines</strong>.</p>
 <p>Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFRO. Meu foco principal é na construção de sistemas práticos e na área de análise de dados (BI). Atuo em transformar processos manuais e desorganizados em fluxos eficientes, estruturados e escaláveis. </p>
 <p>Trago bastante disciplina da minha vivência militar prévia para o meu código: prefiro ir direto ao ponto, mantendo o foco no desenvolvimento em si, criando lógicas sólidas no backend e modelando dados que realmente resolvam problemas no mundo real.</p>
 <p>Código, dados e um pouco de caos.</p>
