@@ -1,18 +1,18 @@
 <div align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/BR_Português-009c3b?style=flat-square" /></a>
-  <a href="README.en.md"><img src="https://img.shields.io/badge/EN_English-555555?style=flat-square" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/BR_Português-555555?style=flat-square" /></a>
+  <a href="README.en.md"><img src="https://img.shields.io/badge/EN_English-009c3b?style=flat-square" /></a>
 </div>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Banner Rick and Morty" width="100%" />
+  <img src="assets/banner.png" alt="Rick and Morty Banner" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=linux&logoColor=white&color=black" alt="Status" />
-  <img src="https://img.shields.io/badge/LOC-VILHENA_RO-blue?style=for-the-badge&color=black" alt="Localização" />
+  <img src="https://img.shields.io/badge/LOC-VILHENA_RO-blue?style=for-the-badge&color=black" alt="Location" />
   <img src="https://img.shields.io/badge/STACK-BACKEND_&_DATA-9cf?style=for-the-badge&logoColor=white&color=black" alt="Stack" />
   <img src="https://img.shields.io/badge/MODE-LEARNING-informational?style=for-the-badge&logo=gitbook&logoColor=white&color=black" alt="Learning" />
-  <img src="https://img.shields.io/badge/FOCUS-DEV_&_BI-critical?style=for-the-badge&logo=code&logoColor=white&color=black" alt="Foco" />
+  <img src="https://img.shields.io/badge/FOCUS-DEV_&_BI-critical?style=for-the-badge&logo=code&logoColor=white&color=black" alt="Focus" />
 </p>
 
 <div align="center">
@@ -27,41 +27,41 @@
 
 <br>
 
-<h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
+<h2 style="border-bottom: none; padding-bottom: 0;">About me</h2>
 
-<img align="left" src="assets/rick-26mortyRotateSized_1.gif" alt="Rick GIF" width="160" style="margin-right: 40px; margin-bottom: 8px;" />
+<img align="left" src="assets/rick-26mortyRotateSized_1.gif" alt="Rick GIF" width="160" style="margin-right: 20px; margin-bottom: 8px;" />
 
-<p>W L D D! Olá, eu sou o <strong>José Martines</strong>.</p>
-<p>Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFRO, atuando na prática com Análise de Dados e Business Intelligence em uma rede de concessionárias John Deere.</p>
-<p>Meu foco está em transformar processos manuais em soluções automatizadas: uso Python para construir RPAs que integram sistemas e APIs, estruturando pipelines e dashboards em Power BI que sustentam decisões de negócio.</p>
-<p>Código e dados.</p>
+<p>W L D D! Hello, I'm <strong>José Martines</strong>.</p>
+<p>Systems Analysis and Development (ADS) student at IFRO, working practically with Data Analysis and Business Intelligence at a John Deere dealership network.</p>
+<p>My focus is on transforming manual processes into automated solutions: I use Python to build RPAs that integrate systems and APIs, structuring pipelines and Power BI dashboards that support business decisions.</p>
+<p>Code and data.</p>
 
 <br clear="both" />
 
-<h2 style="border-bottom: none; padding-bottom: 0;">Foco no momento</h2>
+<h2 style="border-bottom: none; padding-bottom: 0;">Current Focus</h2>
 
-<img align="right" src="assets/magnifier.png" alt="Lupa Rick and Morty" width="200" style="margin-left: 28px; margin-top: 8px;" />
+<img align="right" src="assets/magnifier.png" alt="Rick and Morty Magnifier" width="200" style="margin-left: 28px; margin-top: 8px;" />
 
 <br>
 
 <ul>
-  <li>Dados e geração de insights, aplicando SOLID, paradigmas de programação e linguagem ubíqua para alinhar <strong>código e negócio</strong>.</li>
+  <li>Data and insight generation, applying SOLID principles, programming paradigms, and ubiquitous language to align <strong>code and business</strong>.</li>
   <br>
-  <li>Extração de inteligência e criação de dashboards dinâmicos e eficientes com <strong>Power BI e DAX</strong>.</li>
+  <li>Intelligence extraction and creation of dynamic, efficient dashboards with <strong>Power BI and DAX</strong>.</li>
   <br>
-  <li>Afinar a arquitetura dos meus projetos: código legível, estrutura em camadas (Controller-Service-Repository) e foco no funcionamento limpo.</li>
+  <li>Refining my projects' architecture: readable code, layered structure (Controller-Service-Repository), and a focus on clean execution.</li>
   <br>
-  <li>Melhorar a documentação técnica e organização das ideias.</li>
+  <li>Improving technical documentation and organization of ideas.</li>
 </ul>
 
 <br clear="both" />
 
 
-<h2 style="border-bottom: none; padding-bottom: 0;">Métricas do Multiverso</h2>
+<h2 style="border-bottom: none; padding-bottom: 0;">Multiverse Metrics</h2>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseViniciusMM&theme=github-compact&hide_border=true" width="100%" alt="Gráfico de Atividade" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseViniciusMM&theme=github-compact&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
 </p>
 
@@ -83,15 +83,15 @@
 
 <br>
 
-<h2 style="border-bottom: none; padding-bottom: 0;">Stack e ferramentas</h2>
+<h2 style="border-bottom: none; padding-bottom: 0;">Stack and Tools</h2>
 
-<img align="right" src="./assets/brain.png" alt="Cérebro Cibernético Portal" width="180" style="margin-left: 40px; margin-bottom: 8px;" />
+<img align="right" src="./assets/brain.png" alt="Portal Cybernetic Brain" width="180" style="margin-left: 20px; margin-bottom: 8px;" />
 
-Uso **Python** para automação e scripts, **JavaScript / TypeScript** quando entra web ou serviço, e **C#** para sistemas mais estruturados. **SQL** e **MongoDB** para modelagem e persistência de dados, **Power BI** para análise e dashboards. **Git** e **GitHub** para versionamento com [Conventional Commits](https://www.conventionalcommits.org/), e **Docker** quando preciso que o ambiente seja o mesmo em qualquer máquina.
+I use **Python** for automation and scripting, **JavaScript / TypeScript** for web or services, and **C#** for more structured systems. **SQL** and **MongoDB** for data modeling and persistence, and **Power BI** for analysis and dashboards. **Git** and **GitHub** for versioning with [Conventional Commits](https://www.conventionalcommits.org/), and **Docker** when I need the environment to be exactly the same on any machine.
 
 <br>
 
-**Linguagens & Frameworks**  
+**Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -108,18 +108,18 @@ Uso **Python** para automação e scripts, **JavaScript / TypeScript** quando en
 ![Postgres](https://img.shields.io/badge/Postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**DevOps, Infra & Testes**  
+**DevOps, Infra & Testing**  
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=white)
 
-**Versionamento & Ferramentas**  
+**Versioning & Tools**  
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<h2 style="border-bottom: none; padding-bottom: 0;">Contato</h2>
+<h2 style="border-bottom: none; padding-bottom: 0;">Contact</h2>
 
 <br>
 
